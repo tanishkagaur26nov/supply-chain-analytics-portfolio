@@ -6,7 +6,7 @@ The goal was to analyse supplier performance, logistics efficiency,
 inventory health, and regional revenue trends across 100 SKUs.
 
 ## Dashboard
-- 📄 [View Interactive Dashboard (PDF)](dashboard/supply_chain_dashboard.pdf)
+- 📄 [View Interactive Dashboard (PDF)](supply_chain_dashboard.pdf)
 
 ## Tools Used
 - SQL (DB Browser for SQLite)
